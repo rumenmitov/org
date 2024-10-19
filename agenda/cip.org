@@ -6,8 +6,10 @@ SCHEDULED: <2024-10-26 Sat>
 
 * Testing Protocols
 DEADLINE: <2024-10-26 Sat>
-- WOMSCP
-- Raspberry Pi
+
+- [ ] WOMSCP
+- [ ] Raspberry Pi
 
 * Clean Up WOMSCP
 DEADLINE: <2024-11-02 Sat>
+
