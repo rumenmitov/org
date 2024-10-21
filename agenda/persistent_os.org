@@ -1,4 +1,6 @@
-#+title: Persistent OS Agenda
+#+title: Persistent OS
+#+author: Rumen Mitov
+#+email: rumen.mitov@constructor.tech
 #+startup: overview
 
 * Organizational Meeting
