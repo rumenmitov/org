@@ -1,12 +1,22 @@
-* Tasks
-* TODO watch probability videos
-* TODO finish os + networks notes
-* TODO watch logic videos
-* TODO cv
-* TODO aerospace job applications
-* TODO https://learningapps.org/watch?v=px9odfic523
+#+title: Notes
+#+author: Rumen Mitov
+#+email: rumenmitov@protonmail.com
+#+startup: overview
+
+* TODO [#A] grade mfcs
+DEADLINE: <2024-10-23 Wed>
+* TODO [#A] grade c/c++
+DEADLINE: <2024-10-22 Tue>
+* TODO [#A] myguichet
+DEADLINE: <2024-10-22 Tue>
+* TODO [#B] finish os + networks notes
+* TODO [#B] watch logic videos
+* TODO [#B] cv
+* TODO [#B] aerospace job applications
+* TODO [#B] get gdb to work
+* TODO [#C] watch probability videos
+* TODO [#C] https://learningapps.org/watch?v=px9odfic523
 * TODO [#C] OS question
-SCHEDULED: <2024-10-21 Mon 15:30>
-
+<2024-10-22 Tue 15:45>
 what happens to rodata and rotext when we have virtual memory? r they still shared?
-
+* TODO [#C] cip working hours
