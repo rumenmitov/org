@@ -5,9 +5,11 @@
 
 * TODO [#A] grade mfcs
 DEADLINE: <2024-10-23 Wed>
-* TODO [#A] grade c/c++
+* TODO [#A] grade c/c++ [50%]
 DEADLINE: <2024-10-22 Tue>
-* TODO [#A] myguichet
+- [X] a6_p2
+- [ ] a6_p8
+* DONE [#A] myguichet
 DEADLINE: <2024-10-22 Tue>
 * TODO [#B] finish os + networks notes
 * TODO [#B] watch logic videos
