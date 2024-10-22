@@ -1,0 +1,3 @@
+#+title: Journal
+#+author: Rumen Mitov
+#+email: rumenmitov@protonmail.com

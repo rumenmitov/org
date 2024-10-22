@@ -1,0 +1,4 @@
+#+title: Programming
+#+author: Rumen Mitov
+#+email: rumenmitov@protonmail.com
+#+tags: { BUG(b) INFO(i) }
