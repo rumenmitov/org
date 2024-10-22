@@ -2,3 +2,8 @@
 #+author: Rumen Mitov
 #+email: rumenmitov@protonmail.com
 #+tags: { BUG(b) INFO(i) }
+* TODO mchat                                                           :INFO:
+Finish program
+
+[[file:~/University/semester_3/os/programs/mchat/mchat.c]]
+[2024-10-22 Tue 17:13]

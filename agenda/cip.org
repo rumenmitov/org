@@ -9,11 +9,11 @@ CLOSED: [2024-10-20 Sun 01:06] SCHEDULED: <2024-10-19 Sat>
 * CIP Fundraiser
 SCHEDULED: <2024-10-26 Sat>
 
-* Testing Protocols [0%]
+* TODO Testing Protocols [0%]
 DEADLINE: <2024-10-26 Sat>
 - [ ] WOMSCP Testing Protocol
 
-* Clean Up WOMSCP [0%]
+* TODO Clean Up WOMSCP [0%]
 DEADLINE: <2024-11-02 Sat>
 - [ ] Raspberry Pi
 
