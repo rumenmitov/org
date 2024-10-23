@@ -31,7 +31,7 @@ DEADLINE: <2024-10-28 Mon ++7d>
 * TODO [#C] csc event
 SCHEDULED: <2024-10-25 Fri 17:00-19:00>
 * DONE [#A] dbws server fix
-* TODO [#B] update constructor intern presentation [0%]
+* TODO [#B] update constructor intern presentation [50%]
 DEADLINE: <2024-10-23 Wed>
-- [ ] screenshots of constructor platform
+- [X] screenshots of constructor platform
 - [ ] extra slide explaining genode and persistence
