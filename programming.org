@@ -2,8 +2,30 @@
 #+author: Rumen Mitov
 #+email: rumenmitov@protonmail.com
 #+tags: { BUG(b) INFO(i) }
+#+startup: overview
 * TODO mchat                                                           :INFO:
 Finish program
 
 [[file:~/University/semester_3/os/programs/mchat/mchat.c]]
 [2024-10-22 Tue 17:13]
+* gdb for nullptr                                                       :BUG:
+- get a nullptr when returning dyn memory from .cc to .c
+- trying to run gdb
+  https://genodians.org/ssumpf/2019-04-26-java-gdb
+  #+begin_src shell
+    goa build --debug
+    make -C build/genode/x86_64 run/phantom_squid_linux &
+    ps -ef | grep make
+    gdb -p <port> <path to isomem binary???>
+  #+end_src
+- gdb returns ~ptrace permission denied~
+- most likely need sudo privileges?
+- sudo might not be the problem; try with ~podman run --cap-add=SYS_PTRACE~
+
+
+You can also try without debugger:
+- Genode::backtrace()
+- addr2line
+
+[[file:~/Coding/phantomuserland/src/phantom/isomem/vm_map.c::wait_for_continue();]]
+[2024-10-23 Wed 11:25]
